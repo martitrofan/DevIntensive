@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Шакиров Марат</string>
+    <string name="about_self_text">We are the best.</string>
+    <string name="about_self_hint">О себе</string>
+    <string name="git_repository_text">github.com/martitrofan/DevIntensive</string>
+    <string name="git_repository_hint">Репозиторий</string>
+    <string name="profile_vk_text">vk.com/martitrofan</string>
+    <string name="profile_vk_hint">Профиль в VK</string>
+    <string name="email_text">martitrofan230@gmail.com</string>
+    <string name="email_hint">E-mail</string>
+    <string name="phone_text">8-(987)-234-xx-10</string>
+    <string name="phone_hint">Мобильный</string>
+    <string name="projects_label">Проектов</string>
+    <string name="projects_value_label">100</string>
+    <string name="code_row_label">Написано строк кода</string>
+    <string name="code_row_value_label">999</string>
+    <string name="rating_label">Рейтинг</string>
+    <string name="rating_value_label">5</string>
 </resources>
