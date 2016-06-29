@@ -16,4 +16,6 @@
     <string name="code_row_value_label">999</string>
     <string name="rating_label">Рейтинг</string>
     <string name="rating_value_label">5</string>
+    <string name="profile">Профиль</string>
+    <string name="team">Команда</string>
 </resources>
